@@ -5,7 +5,7 @@ Implementazione di **prompt engineering**, validazione automatica dei risultati 
 
 ---
 
-## 🚀 Funzionalità principali
+## Funzionalità principali
 - Prompt Engineering per la generazione di input ottimizzati.
 - Validazione automatica delle predizioni.
 - Supporto multi-modello (attivazione/disattivazione blocchi).
@@ -14,7 +14,7 @@ Implementazione di **prompt engineering**, validazione automatica dei risultati 
 
 ---
 
-## 🛠️ Tecnologie usate
+## Tecnologie usate
 - Python
 - Deep Learning (PyTorch / TensorFlow)
 - Git & GitHub
